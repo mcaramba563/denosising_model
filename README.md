@@ -34,11 +34,13 @@ Test SI-SDR: 8.529809951782227, Test PESQ: 1.3428624216526268
 Noised:
 
 [First noised sound](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/mcaramba563/denosising_model/refs/heads/main/examples/si_sdr/1-noise.wav)
+
 [Second noised sound](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/mcaramba563/denosising_model/refs/heads/main/examples/si_sdr/2-noise.wav)
 
 Clear:
 
 [First clear sound](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/mcaramba563/denosising_model/refs/heads/main/examples/si_sdr/1-clear.wav)
+
 [Second clear sound](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/mcaramba563/denosising_model/refs/heads/main/examples/si_sdr/2-clear.wav)
 
 Слышно, что после шумоподавления присутствует много артефактов
