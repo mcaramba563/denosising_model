@@ -73,7 +73,7 @@ Clear:
 [Second clear sound](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/mcaramba563/denosising_model/refs/heads/main/examples/si_sdr_pesq/2-clear.wav)
 
 
-### Fine-tuned Si-SDR_PESQ model
+## Fine-tuned Si-SDR_PESQ model
 В качестве модели использован WaveNet c 10 down- и up- sampling, увеличенным F_c с 24 до 32, которая работает со звуками длиной 4 секунды.
 
 Метрики:
@@ -83,6 +83,15 @@ Test Loss: -8.5006742477417, Test SI-SDR: 9.49311637878418, Test PESQ: 1.5889746
 По сравнения с предыдущей моделью Si-SDR_PESQ(с 12 слоями) PESQ увеличился на 0.1, а SI-SDR более чем на 1
 
 Артефактов стало еще меньше
+
+Noised:
+
+[First noised sound](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/mcaramba563/denosising_model/refs/heads/main/examples/si_sdr_pesq_tuned/1-noise.wav)
+
+[Second noised sound](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/mcaramba563/denosising_model/refs/heads/main/examples/si_sdr_pesq_tuned/2-noise.wav)
+
+
+Clear:
 
 [First clear sound](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/mcaramba563/denosising_model/refs/heads/main/examples/si_sdr_pesq_tuned/1-clear.wav)
 
