@@ -33,13 +33,13 @@ Test SI-SDR: 8.529809951782227, Test PESQ: 1.3428624216526268
 
 Noised:
 
-<audio controls src="examples/si_sdr/1-noise.wav" title="Title"></audio>
-<audio controls src="examples/si_sdr/2-noise.wav" title="Title"></audio>
+<audio controls src="./examples/si_sdr/1-noise.wav" title="Title"></audio>
+<audio controls src="./examples/si_sdr/2-noise.wav" title="Title"></audio>
 
 Clear:
 
-<audio controls src="examples/si_sdr/1-clear.wav" title="Title"></audio>
-<audio controls src="examples/si_sdr/2-clear.wav" title="Title"></audio>
+<audio controls src="./examples/si_sdr/1-clear.wav" title="Title"></audio>
+<audio controls src="./examples/si_sdr/2-clear.wav" title="Title"></audio>
 
 Слышно, что после шумоподавления присутствует много артефактов
 
